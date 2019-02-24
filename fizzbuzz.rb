@@ -10,6 +10,6 @@ if number % 5 == 0
   end
   
   if number % 3 == 0 
-    return "Fizzbuzz"
+    return "Fizz"
   end 
 end 
